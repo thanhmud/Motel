@@ -4,7 +4,7 @@
             <img src="assets/img/dp.jpg" class="img-responsive" alt=""> </div>
     </div>
     <div class="profile-usertitle">
-        <div class="sidebar-userpic-name"> John Deo </div>
+        <div class="sidebar-userpic-name"> Huyền Bon </div>
         <div class="profile-usertitle-job"> Manager </div>
     </div>
     <div class="sidebar-userpic-btn">
